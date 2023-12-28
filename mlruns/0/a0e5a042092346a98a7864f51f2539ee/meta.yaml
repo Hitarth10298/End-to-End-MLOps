@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hitarth/End-to-End-MLOps/mlruns/0/a0e5a042092346a98a7864f51f2539ee/artifacts
+end_time: 1703748563362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0e5a042092346a98a7864f51f2539ee
+run_name: bold-stag-133
+run_uuid: a0e5a042092346a98a7864f51f2539ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703748562176
+status: 3
+tags: []
+user_id: hitarth
