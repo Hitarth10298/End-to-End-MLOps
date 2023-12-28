@@ -11,3 +11,5 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+AWS - ECR URI : 476771341453.dkr.ecr.us-west-1.amazonaws.com/mlops_project
